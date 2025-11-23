@@ -78,7 +78,7 @@ fetchNews()
 
 form.addEventListener("submit" , onSubmitForm)
 
-loadMoreBtn.addEventListener("click" , )
+loadMoreBtn.addEventListener("click" , onClickLoadMore)
 
 
 
